@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>michaelc个人博客</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-05-25T02:47:36.477Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>michaelc</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2018/05/24/hello-world/"/>
+    <id>http://yoursite.com/2018/05/24/hello-world/</id>
+    <published>2018-05-24T03:10:38.965Z</published>
+    <updated>2018-05-25T02:47:36.477Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Hello-world"><a href="#Hello-world" class="headerlink" title="Hello world"></a>Hello world</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;Hello-world&quot;&gt;&lt;a href=&quot;#Hello-world&quot; class=&quot;headerlink&quot; title=&quot;Hello world&quot;&gt;&lt;/a&gt;Hello world&lt;/h2&gt;
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>python</title>
+    <link href="http://yoursite.com/2017/05/25/python/"/>
+    <id>http://yoursite.com/2017/05/25/python/</id>
+    <published>2017-05-25T02:46:49.000Z</published>
+    <updated>2018-05-25T02:48:15.531Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Python是世界上最好的语言，不接受反驳"><a href="#Python是世界上最好的语言，不接受反驳" class="headerlink" title="Python是世界上最好的语言，不接受反驳"></a>Python是世界上最好的语言，不接受反驳</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;Python是世界上最好的语言，不接受反驳&quot;&gt;&lt;a href=&quot;#Python是世界上最好的语言，不接受反驳&quot; class=&quot;headerlink&quot; title=&quot;Python是世界上最好的语言，不接受反驳&quot;&gt;&lt;/a&gt;Python是世界上最好的语言，不接受反驳&lt;/
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
